@@ -1,1 +1,1 @@
-# Singleton
+# Singleton Design Pattern
